@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Tạ Đình Thái Nhân
-* Student ID: Bi11-205
+* Student Name: 
+* Student ID: 
