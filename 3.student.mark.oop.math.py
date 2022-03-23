@@ -223,7 +223,7 @@ class Marks:
     def average_gpa_by_student(self, student_id):
         m = [x for x in self._list if x._student_id == student_id]
         if(len(m) == 0):
-            return (False, "Invalid student id")
+            return 0
         total_mark = 0
         for mark in m:
             total_mark += mark._mark
